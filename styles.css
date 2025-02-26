@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:lightblue;
+	border:2px solid black;
+	width:50%;
+	height:50vh;
+	position:relative;
+	top:25vh;
+	left:25%;
+}
+.para{
+	position:absolute;
+	left:90px;
+	top:75px;
+}
